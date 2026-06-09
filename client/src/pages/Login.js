@@ -70,7 +70,7 @@ export default function Login() {
             </button>
           </form>
           <div className="mt-3 text-center text-muted small">
-            <p className="mb-0">Demo: admin / admin123</p>
+            
           </div>
         </div>
       </div>
